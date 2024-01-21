@@ -1,0 +1,37 @@
+.body{
+    background-color: black;
+}
+.LOVE{
+    font-size:36px ;
+    font-family:cursive;
+    color:white;
+    text-shadow:0 0 10px rgb(5, 255, 255),0 0 20PX rgb(5, 255, 255),0 0 30PX rgb(5, 255, 255);
+    text-align: center;
+    background-color: black;
+}
+.body{
+    background-color: black;
+}
+.main0{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    color:black;
+    height:100x;
+
+}
+.LOVE3{
+    margin: auto;
+    border-radius:50px;
+    display: flex;
+    justify-content: center;
+    width:50%;
+    border-bottom-color: red;
+    border-right-color: green;
+    border-top-color: green ;
+    border-top-right-radius:205px ;
+    border-top-left-radius:205px ;
+    border-left-color: red;
+    background-color:white;
+    color:green;
+}
